@@ -22,6 +22,13 @@ This mean that any change to the variable in the method is seen in the calling c
 
 ![image](https://user-images.githubusercontent.com/40399697/213041356-5face863-d088-4502-a623-09bd98dce32d.png)
 
+**Simple oeration returning a value**
+
+![image](https://user-images.githubusercontent.com/40399697/213338273-2f1ef9b3-50df-4dea-b1da-89c6d66aea97.png)
+
+![image](https://user-images.githubusercontent.com/40399697/213338342-5f9b5c47-899d-4e70-a41e-a2927a5334ca.png)
+
+![image](https://user-images.githubusercontent.com/40399697/213339008-e69bff9c-8b63-4019-9eba-1f793a2e4c44.png)
 
 
 By Deborah Kurata
