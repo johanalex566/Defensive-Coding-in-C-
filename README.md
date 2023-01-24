@@ -30,5 +30,20 @@ This mean that any change to the variable in the method is seen in the calling c
 
 ![image](https://user-images.githubusercontent.com/40399697/213339008-e69bff9c-8b63-4019-9eba-1f793a2e4c44.png)
 
+**Management Exception**
+
+![image](https://user-images.githubusercontent.com/40399697/214200934-11004b10-178a-4f21-be5a-20714d612a99.png)
+
+
+![image](https://user-images.githubusercontent.com/40399697/214200481-7a638351-2371-493a-a763-cf0142571147.png)
+
+![image](https://user-images.githubusercontent.com/40399697/214200987-f5d6581d-f739-49e9-aeee-e3cf29b8da83.png)
+
+![image](https://user-images.githubusercontent.com/40399697/214201086-c2fa4682-43a9-4647-bb4b-e6fa84cf2016.png)
+
+![image](https://user-images.githubusercontent.com/40399697/214201259-54f9677d-d558-4be6-bcb6-660d294cdccc.png)
+
+
+
 
 By Deborah Kurata
