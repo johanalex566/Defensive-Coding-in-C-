@@ -1,5 +1,17 @@
 # Defensive-Coding-in-C-
 
+![image](https://user-images.githubusercontent.com/40399697/214467423-5fa99eab-6195-407d-8bcb-9982611e9bef.png)
+
+![image](https://user-images.githubusercontent.com/40399697/214467634-1b808caa-9ee5-473f-87b4-6f3110979c12.png)
+
+![image](https://user-images.githubusercontent.com/40399697/214467762-e1ad9cc6-dbd1-47c8-a22f-9225ae0cb556.png)
+
+![image](https://user-images.githubusercontent.com/40399697/214467856-98bdd5ae-957d-4d63-b6c1-83c0064d30cb.png)
+
+![image](https://user-images.githubusercontent.com/40399697/214467924-c322341d-48bd-418b-9fcd-55f2c5827918.png)
+
+
+
 **Providing multiples results from a method**
 
 ![image](https://user-images.githubusercontent.com/40399697/213035345-60fd9e8f-4a0e-4d3b-a4d2-945b6a1816fb.png)
