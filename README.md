@@ -43,7 +43,9 @@ This mean that any change to the variable in the method is seen in the calling c
 
 ![image](https://user-images.githubusercontent.com/40399697/214201259-54f9677d-d558-4be6-bcb6-660d294cdccc.png)
 
+**Catching exception**
 
+![image](https://user-images.githubusercontent.com/40399697/214466193-f91b7e57-2828-4a1a-bf9b-a89ed59da3de.png)
 
 
 By Deborah Kurata
