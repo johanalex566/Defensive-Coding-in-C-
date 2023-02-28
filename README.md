@@ -60,4 +60,11 @@ This mean that any change to the variable in the method is seen in the calling c
 ![image](https://user-images.githubusercontent.com/40399697/214466193-f91b7e57-2828-4a1a-bf9b-a89ed59da3de.png)
 
 
+**Chaining of constructors**
+
+![image](https://user-images.githubusercontent.com/40399697/221740432-61d14445-b252-4d18-babd-89d343e22c98.png)
+
+
+
+
 By Deborah Kurata
