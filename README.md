@@ -65,6 +65,13 @@ This mean that any change to the variable in the method is seen in the calling c
 ![image](https://user-images.githubusercontent.com/40399697/221740432-61d14445-b252-4d18-babd-89d343e22c98.png)
 
 
+**Extension Method**
+Add a this in front of the first parameter of the method. This parameter then no longer represents a parameter passed to the method, rather, it represents the type being extended.
+
+![image](https://user-images.githubusercontent.com/40399697/223306979-bb35bf5f-4fbd-44e6-9d6e-38992c59a319.png)
+
+
+![image](https://user-images.githubusercontent.com/40399697/223307838-739b3dac-3d32-45fb-9536-011185543db3.png)
 
 
 By Deborah Kurata
