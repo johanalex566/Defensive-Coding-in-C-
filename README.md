@@ -73,5 +73,7 @@ Add a this in front of the first parameter of the method. This parameter then no
 
 ![image](https://user-images.githubusercontent.com/40399697/223307838-739b3dac-3d32-45fb-9536-011185543db3.png)
 
+![image](https://user-images.githubusercontent.com/40399697/223308294-5e34e5c0-ed37-4fc5-8227-dfabf6c4dd97.png)
+
 
 By Deborah Kurata
