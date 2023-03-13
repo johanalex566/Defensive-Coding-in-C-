@@ -32,6 +32,7 @@ This mean that any change to the variable in the method is seen in the calling c
 
 ![image](https://user-images.githubusercontent.com/40399697/213039813-f36d53f2-e450-4bfc-b385-8238343c42f0.png)
 
+
 ![image](https://user-images.githubusercontent.com/40399697/213041356-5face863-d088-4502-a623-09bd98dce32d.png)
 
 **Simple oeration returning a value**
@@ -74,6 +75,7 @@ Add a this in front of the first parameter of the method. This parameter then no
 ![image](https://user-images.githubusercontent.com/40399697/223307838-739b3dac-3d32-45fb-9536-011185543db3.png)
 
 ![image](https://user-images.githubusercontent.com/40399697/223308294-5e34e5c0-ed37-4fc5-8227-dfabf6c4dd97.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/40399697/224585937-1bbc44a8-5a6f-422f-b2d2-4680d64d275a.png)
