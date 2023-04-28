@@ -81,4 +81,15 @@ Add a this in front of the first parameter of the method. This parameter then no
 ![image](https://user-images.githubusercontent.com/40399697/224585937-1bbc44a8-5a6f-422f-b2d2-4680d64d275a.png)
 
 
-By Deborah Kurata
+**Encapsulation Collection**
+
+
+
+![image](https://user-images.githubusercontent.com/40399697/235030598-114bcbaf-3a2a-4c28-a4b9-2746483e2c49.png)
+
+
+![image](https://user-images.githubusercontent.com/40399697/235030624-49d26727-a588-48c9-afda-b1350fd7c660.png)
+
+
+
+By Deborah Kurata, Steve Simth
